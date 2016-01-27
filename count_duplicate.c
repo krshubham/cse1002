@@ -8,9 +8,8 @@ int main(int argc, char const *argv[])
 	char str[30];
 	int i;
     printf("Enter string: ");
-    gets(str);     //Read string from user.
-    printf("str: ");
-    puts(str);
+    g
+    }
     for (i = 0; i < 30; i++)
     {
     	printf("%c ",str[i] );

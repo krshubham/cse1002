@@ -36,6 +36,7 @@ using namespace std;
  }
  int main(){
  complex c1;
+complex c4;
  complex c2;
  complex c3;
 	c1.get();

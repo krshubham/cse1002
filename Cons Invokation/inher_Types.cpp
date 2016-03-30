@@ -41,6 +41,15 @@ void B::print()
 	cout<<x_Pro;
 	cout<<x_Pub;
 }
+class person{
+     
+};
+class student{
+  public:
+    void get_s();
+    void print_s();  
+};
+
 int main()
 {
 	A a(2,3,4);

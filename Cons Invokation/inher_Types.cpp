@@ -45,6 +45,8 @@ class person{
      
 };
 class student{
+    int roll;
+    int marks;
   public:
     void get_s();
     void print_s();  

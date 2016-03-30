@@ -78,13 +78,13 @@ void pte::print(){
 }
 int main()
 {
-	//person p;
-	//employee e;
-	//p.getp();
-	//e.gete();
-	//e.getp();
-	//p.printp();
-	//e.printe();
+	person p;
+	employee e;
+	p.getp();
+	e.gete();
+	e.getp();
+	p.printp();
+	e.printe();
     student s;
     s.getp();
     s.printp();
